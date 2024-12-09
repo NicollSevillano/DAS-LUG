@@ -1,0 +1,13 @@
+C:\Users\Nicoll\source\repos\Lu\Mapper\bin\Debug\Mapper.dll
+C:\Users\Nicoll\source\repos\Lu\Mapper\bin\Debug\Mapper.pdb
+C:\Users\Nicoll\source\repos\Lu\Mapper\bin\Debug\BE.dll
+C:\Users\Nicoll\source\repos\Lu\Mapper\bin\Debug\DAL.dll
+C:\Users\Nicoll\source\repos\Lu\Mapper\bin\Debug\Interfaz.dll
+C:\Users\Nicoll\source\repos\Lu\Mapper\bin\Debug\BE.pdb
+C:\Users\Nicoll\source\repos\Lu\Mapper\bin\Debug\DAL.pdb
+C:\Users\Nicoll\source\repos\Lu\Mapper\bin\Debug\Interfaz.pdb
+C:\Users\Nicoll\source\repos\Lu\Mapper\obj\Debug\Mapper.csproj.AssemblyReference.cache
+C:\Users\Nicoll\source\repos\Lu\Mapper\obj\Debug\Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Nicoll\source\repos\Lu\Mapper\obj\Debug\Mapper.csproj.Up2Date
+C:\Users\Nicoll\source\repos\Lu\Mapper\obj\Debug\Mapper.dll
+C:\Users\Nicoll\source\repos\Lu\Mapper\obj\Debug\Mapper.pdb

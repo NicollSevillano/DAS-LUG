@@ -1,0 +1,9 @@
+C:\Users\Nicoll\source\repos\Lu\BE\bin\Debug\BE.dll
+C:\Users\Nicoll\source\repos\Lu\BE\bin\Debug\BE.pdb
+C:\Users\Nicoll\source\repos\Lu\BE\bin\Debug\Interfaz.dll
+C:\Users\Nicoll\source\repos\Lu\BE\bin\Debug\Interfaz.pdb
+C:\Users\Nicoll\source\repos\Lu\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Nicoll\source\repos\Lu\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Nicoll\source\repos\Lu\BE\obj\Debug\BE.csproj.Up2Date
+C:\Users\Nicoll\source\repos\Lu\BE\obj\Debug\BE.dll
+C:\Users\Nicoll\source\repos\Lu\BE\obj\Debug\BE.pdb

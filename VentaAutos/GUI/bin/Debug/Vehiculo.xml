@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Vehiculo" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Vehiculo">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="IdVehiculo" type="xs:string" />
+                <xs:element name="Patente" type="xs:string" minOccurs="0" />
+                <xs:element name="Marca" type="xs:string" minOccurs="0" />
+                <xs:element name="Modelo" type="xs:string" minOccurs="0" />
+                <xs:element name="Año" type="xs:string" minOccurs="0" />
+                <xs:element name="Precio" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Vendido" type="xs:boolean" minOccurs="0" />
+                <xs:element name="Tipo" type="xs:string" minOccurs="0" />
+                <xs:element name="IdDueño" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Vehiculo" />
+        <xs:field xpath="IdVehiculo" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Vehiculo>
+    <IdVehiculo>1</IdVehiculo>
+    <Patente>215ASD</Patente>
+    <Marca>LU</Marca>
+    <Modelo>R1</Modelo>
+    <Año>2001</Año>
+    <Precio>15000</Precio>
+    <Vendido>false</Vendido>
+    <Tipo>BeNormal</Tipo>
+  </Vehiculo>
+  <Vehiculo>
+    <IdVehiculo>2</IdVehiculo>
+    <Patente>326NIC</Patente>
+    <Marca>NicSev</Marca>
+    <Modelo>P24</Modelo>
+    <Año>1998</Año>
+    <Precio>65000</Precio>
+    <Vendido>false</Vendido>
+    <Tipo>BeCompetitivo</Tipo>
+  </Vehiculo>
+</NewDataSet>

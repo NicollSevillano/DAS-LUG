@@ -1,0 +1,6 @@
+C:\Users\Nicoll\source\repos\Lu\Interfaz\bin\Debug\Interfaz.dll
+C:\Users\Nicoll\source\repos\Lu\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\Nicoll\source\repos\Lu\Interfaz\obj\Debug\Interfaz.csproj.AssemblyReference.cache
+C:\Users\Nicoll\source\repos\Lu\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Nicoll\source\repos\Lu\Interfaz\obj\Debug\Interfaz.dll
+C:\Users\Nicoll\source\repos\Lu\Interfaz\obj\Debug\Interfaz.pdb

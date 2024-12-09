@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nicoll\\source\\repos\\Lu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9EE9D7-C546-4ADA-A31F-98819BC760EA}|GUI\\GUI.csproj|C:\\Users\\Nicoll\\source\\repos\\Lu\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE9EE9D7-C546-4ADA-A31F-98819BC760EA}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9EE9D7-C546-4ADA-A31F-98819BC760EA}|GUI\\GUI.csproj|c:\\users\\nicoll\\source\\repos\\lu\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9EE9D7-C546-4ADA-A31F-98819BC760EA}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4AD3F9-14D9-4226-9EAF-7A90B6E0BB8B}|BE\\BE.csproj|C:\\Users\\Nicoll\\source\\repos\\Lu\\be\\becliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4AD3F9-14D9-4226-9EAF-7A90B6E0BB8B}|BE\\BE.csproj|solutionrelative:be\\becliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4AD3F9-14D9-4226-9EAF-7A90B6E0BB8B}|BE\\BE.csproj|C:\\Users\\Nicoll\\source\\repos\\Lu\\be\\becompetitivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4AD3F9-14D9-4226-9EAF-7A90B6E0BB8B}|BE\\BE.csproj|solutionrelative:be\\becompetitivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4AD3F9-14D9-4226-9EAF-7A90B6E0BB8B}|BE\\BE.csproj|C:\\Users\\Nicoll\\source\\repos\\Lu\\be\\benormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4AD3F9-14D9-4226-9EAF-7A90B6E0BB8B}|BE\\BE.csproj|solutionrelative:be\\benormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2235FDB-A6F4-4556-A029-F30A90F393F5}|Mapper\\Mapper.csproj|C:\\Users\\Nicoll\\source\\repos\\Lu\\mapper\\mappervehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2235FDB-A6F4-4556-A029-F30A90F393F5}|Mapper\\Mapper.csproj|solutionrelative:mapper\\mappervehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2235FDB-A6F4-4556-A029-F30A90F393F5}|Mapper\\Mapper.csproj|C:\\Users\\Nicoll\\source\\repos\\Lu\\mapper\\mappercliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2235FDB-A6F4-4556-A029-F30A90F393F5}|Mapper\\Mapper.csproj|solutionrelative:mapper\\mappercliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A67AB3-2B88-4F79-A343-B5D858199B32}|DAL\\DAL.csproj|C:\\Users\\Nicoll\\source\\repos\\Lu\\dal\\dalvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A67AB3-2B88-4F79-A343-B5D858199B32}|DAL\\DAL.csproj|solutionrelative:dal\\dalvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4AD3F9-14D9-4226-9EAF-7A90B6E0BB8B}|BE\\BE.csproj|C:\\Users\\Nicoll\\source\\repos\\Lu\\be\\bevehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4AD3F9-14D9-4226-9EAF-7A90B6E0BB8B}|BE\\BE.csproj|solutionrelative:be\\bevehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2023276D-35AC-4087-BD01-BEB958BC6A5F}|BLL\\BLL.csproj|C:\\Users\\Nicoll\\source\\repos\\Lu\\bll\\bllcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2023276D-35AC-4087-BD01-BEB958BC6A5F}|BLL\\BLL.csproj|solutionrelative:bll\\bllcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2023276D-35AC-4087-BD01-BEB958BC6A5F}|BLL\\BLL.csproj|C:\\Users\\Nicoll\\source\\repos\\Lu\\bll\\bllvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2023276D-35AC-4087-BD01-BEB958BC6A5F}|BLL\\BLL.csproj|solutionrelative:bll\\bllvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A67AB3-2B88-4F79-A343-B5D858199B32}|DAL\\DAL.csproj|C:\\Users\\Nicoll\\source\\repos\\Lu\\dal\\dalcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A67AB3-2B88-4F79-A343-B5D858199B32}|DAL\\DAL.csproj|solutionrelative:dal\\dalcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BeNormal.cs",
+              "DocumentMoniker": "C:\\Users\\Nicoll\\source\\repos\\Lu\\BE\\BeNormal.cs",
+              "RelativeDocumentMoniker": "BE\\BeNormal.cs",
+              "ToolTip": "C:\\Users\\Nicoll\\source\\repos\\Lu\\BE\\BeNormal.cs",
+              "RelativeToolTip": "BE\\BeNormal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:59:51.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeCompetitivo.cs",
+              "DocumentMoniker": "C:\\Users\\Nicoll\\source\\repos\\Lu\\BE\\BeCompetitivo.cs",
+              "RelativeDocumentMoniker": "BE\\BeCompetitivo.cs",
+              "ToolTip": "C:\\Users\\Nicoll\\source\\repos\\Lu\\BE\\BeCompetitivo.cs",
+              "RelativeToolTip": "BE\\BeCompetitivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:59:48.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nicoll\\source\\repos\\Lu\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nicoll\\source\\repos\\Lu\\GUI\\Form1.cs",
+              "RelativeToolTip": "GUI\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wCEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:05:47.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BllCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Nicoll\\source\\repos\\Lu\\BLL\\BllCliente.cs",
+              "RelativeDocumentMoniker": "BLL\\BllCliente.cs",
+              "ToolTip": "C:\\Users\\Nicoll\\source\\repos\\Lu\\BLL\\BllCliente.cs",
+              "RelativeToolTip": "BLL\\BllCliente.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:01:43.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BllVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Nicoll\\source\\repos\\Lu\\BLL\\BllVehiculo.cs",
+              "RelativeDocumentMoniker": "BLL\\BllVehiculo.cs",
+              "ToolTip": "C:\\Users\\Nicoll\\source\\repos\\Lu\\BLL\\BllVehiculo.cs",
+              "RelativeToolTip": "BLL\\BllVehiculo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:01:34.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BeVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Nicoll\\source\\repos\\Lu\\BE\\BeVehiculo.cs",
+              "RelativeDocumentMoniker": "BE\\BeVehiculo.cs",
+              "ToolTip": "C:\\Users\\Nicoll\\source\\repos\\Lu\\BE\\BeVehiculo.cs",
+              "RelativeToolTip": "BE\\BeVehiculo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:18:50.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapperCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Nicoll\\source\\repos\\Lu\\Mapper\\MapperCliente.cs",
+              "RelativeDocumentMoniker": "Mapper\\MapperCliente.cs",
+              "ToolTip": "C:\\Users\\Nicoll\\source\\repos\\Lu\\Mapper\\MapperCliente.cs",
+              "RelativeToolTip": "Mapper\\MapperCliente.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwD4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:34:18.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Nicoll\\source\\repos\\Lu\\BE\\BeCliente.cs",
+              "RelativeDocumentMoniker": "BE\\BeCliente.cs",
+              "ToolTip": "C:\\Users\\Nicoll\\source\\repos\\Lu\\BE\\BeCliente.cs",
+              "RelativeToolTip": "BE\\BeCliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:38:21.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DalCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Nicoll\\source\\repos\\Lu\\DAL\\DalCliente.cs",
+              "RelativeDocumentMoniker": "DAL\\DalCliente.cs",
+              "ToolTip": "C:\\Users\\Nicoll\\source\\repos\\Lu\\DAL\\DalCliente.cs",
+              "RelativeToolTip": "DAL\\DalCliente.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:23:53.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DalVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Nicoll\\source\\repos\\Lu\\DAL\\DalVehiculo.cs",
+              "RelativeDocumentMoniker": "DAL\\DalVehiculo.cs",
+              "ToolTip": "C:\\Users\\Nicoll\\source\\repos\\Lu\\DAL\\DalVehiculo.cs",
+              "RelativeToolTip": "DAL\\DalVehiculo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:07:00.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapperVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Nicoll\\source\\repos\\Lu\\Mapper\\MapperVehiculo.cs",
+              "RelativeDocumentMoniker": "Mapper\\MapperVehiculo.cs",
+              "ToolTip": "C:\\Users\\Nicoll\\source\\repos\\Lu\\Mapper\\MapperVehiculo.cs",
+              "RelativeToolTip": "Mapper\\MapperVehiculo.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAA2wCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:48:25.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Nicoll\\source\\repos\\Lu\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nicoll\\source\\repos\\Lu\\GUI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:12:02.961Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
